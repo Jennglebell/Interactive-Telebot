@@ -10,6 +10,7 @@ An intelligent and interactive telebot that builds a sandwich for you based on y
 '''
 pip install virtualenv
 '''
+
 2. To set up virtualenv for the project, run:
 '''
 cd my-project/
