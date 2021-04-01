@@ -1,1 +1,2 @@
-TOKEN = "1638628727:AAGHGw2p7iaDC-URpTxtVG_Qiovw9giz82M"
+# Insert the token for the telebot
+TOKEN = ""
